@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Paty\\Downloads\\AtividadeFuncionario-Israel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEC5BC3-DFAE-4272-B3D0-0E20BBBC1209}|AtividadeFuncionario-Israel\\AtividadeFuncionario-Israel.csproj|c:\\users\\paty\\downloads\\atividadefuncionario-israel\\atividadefuncionario-israel\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BEC5BC3-DFAE-4272-B3D0-0E20BBBC1209}|AtividadeFuncionario-Israel\\AtividadeFuncionario-Israel.csproj|solutionrelative:atividadefuncionario-israel\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Paty\\Downloads\\AtividadeFuncionario-Israel\\AtividadeFuncionario-Israel\\Controllers\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "AtividadeFuncionario-Israel\\Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\Paty\\Downloads\\AtividadeFuncionario-Israel\\AtividadeFuncionario-Israel\\Controllers\\FuncionarioController.cs",
+              "RelativeToolTip": "AtividadeFuncionario-Israel\\Controllers\\FuncionarioController.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAmwCUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T19:02:50.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

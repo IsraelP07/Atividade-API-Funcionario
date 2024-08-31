@@ -1,0 +1,6 @@
+@AtividadeFuncionario_Israel_HostAddress = http://localhost:5148
+
+GET {{AtividadeFuncionario_Israel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
